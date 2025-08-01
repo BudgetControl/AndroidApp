@@ -131,3 +131,5 @@ dist
 *.keystore
 AndroidConfigs/android/app/.gradle/
 keyStore
+.vscode/
+AndroidConfigs/android/app/google-services.json
